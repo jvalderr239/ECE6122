@@ -1,2 +1,2 @@
-# ECE6122
-Advanced Programming Techniques
+# ECE6122 Advanced Programming Techniques
+Course in OpenGL, OpenMPl
