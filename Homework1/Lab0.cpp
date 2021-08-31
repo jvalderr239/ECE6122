@@ -13,14 +13,14 @@ I am ready for the next assignment on pace-ice.
 using namespace std;
 int main()
 {
-    string singleQuote = "/'";
+    string singleQuote = "\'";
     string doubleQuote = "\"";
     string backslash = "\\";
     string fullname = "Jose Valderrama";
     string first = "My name is: " + fullname;
     string second = "This (" + doubleQuote + ") is a double quote.";
     string third =  "This ("+ singleQuote +") is a single quote.";
-    string fourth = "This ("+backslash+") is a backslash.";
+    string fourth = "This (" + backslash + ") is a backslash.";
     string words[] = {first, second, third, fourth};
 
     for(int i; i < words->size(); ++i)
